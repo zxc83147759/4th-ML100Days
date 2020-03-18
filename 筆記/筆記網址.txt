@@ -1,0 +1,2 @@
+第九天:
+https://github.com/psop/2nd-ML100Days/blob/master/homework/Day_006_HW.ipynb
